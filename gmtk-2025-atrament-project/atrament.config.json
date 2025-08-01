@@ -1,0 +1,13 @@
+{
+  "name": "GMTK 2025",
+  "short_name": "gmtk2025.jam",
+  "description": "GMTK 2025 Jam Game",
+  "theme": "dark",
+  "font": "OpenDyslexic",
+  "language": "en",
+  "locale": "en-US",
+  "game": {
+    "path": "game",
+    "source": "main.ink"
+  }
+}
